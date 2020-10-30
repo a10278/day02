@@ -1,3 +1,5 @@
+﻿day01
+
 从0到1做vue项目具体流程
 1.创建gitHub仓库
 2.vue create xxx
@@ -8,3 +10,10 @@
 7.写router路由器
 8.写App组件
 9.写逻辑
+
+day02
+
+10.路由器配置项做成组件
+11.先做Home中的全局组件,TypeNav文件夹放到外层components文件夹中
+12.再做Home路由组件中的局部组件,ListContalner文件夹放到Home文件夹中
+13.做非路由组件的流程:拆html拆css拆img到新建组件中,然后到Home中引入注册使用

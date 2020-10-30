@@ -1,0 +1,10 @@
+从0到1做vue项目具体流程
+1.创建gitHub仓库
+2.vue create xxx
+3.vue.config.js 清除规范报错
+4.jsconfig.json 通过@引入文件时有路径提示
+5.拆分public文件夹的html非路由组件,组装到components文件夹中的各自组件里
+6.拆分public文件夹的html路由组件,组装到views文件夹里的各自route里
+7.写router路由器
+8.写App组件
+9.写逻辑
